@@ -14,27 +14,6 @@ Template portfolio modern yang dibangun dengan React, TypeScript, dan Vite. Desa
 - 🛠️ **ESLint** - Code linting untuk kualitas kode
 - 🔧 **PostCSS** - Tool untuk transformasi CSS
 
-## 📁 Struktur Proyek
-
-```
-Template-Portfolio/
-├── eslint.config.js      # Konfigurasi ESLint
-├── index.html           # Entry point HTML
-├── package.json         # Dependencies dan scripts
-├── postcss.config.js    # Konfigurasi PostCSS
-├── src/
-│   ├── App.tsx         # Komponen utama aplikasi
-│   ├── components/     # Komponen React yang dapat digunakan kembali
-│   ├── index.css       # Styles global dan Tailwind imports
-│   ├── main.tsx        # Entry point aplikasi React
-│   └── vite-env.d.ts   # Type definitions untuk Vite
-├── tailwind.config.js   # Konfigurasi Tailwind CSS
-├── tsconfig.json        # Konfigurasi TypeScript
-├── tsconfig.app.json    # Konfigurasi TypeScript untuk aplikasi
-├── tsconfig.node.json   # Konfigurasi TypeScript untuk Node.js
-└── vite.config.ts       # Konfigurasi Vite
-```
-
 ## 🛠️ Installation
 
 1. **Clone repository**
@@ -104,12 +83,6 @@ File hasil build akan tersimpan di folder `dist/` dan siap untuk di-host di serv
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/username/Template-Portfolio](https://github.com/username/Template-Portfolio)
 
 ---
 
