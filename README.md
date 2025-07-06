@@ -80,10 +80,6 @@ File hasil build akan tersimpan di folder `dist/` dan siap untuk di-host di serv
 4. Push ke branch: `git push origin feature/amazing-feature`
 5. Buat Pull Request
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
 
 ⭐ Jangan lupa berikan star jika project ini membantu Anda!
