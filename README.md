@@ -72,14 +72,6 @@ npm run build
 
 File hasil build akan tersimpan di folder `dist/` dan siap untuk di-host di server web apapun.
 
-## 🤝 Contributing
-
-1. Fork repository
-2. Buat feature branch: `git checkout -b feature/amazing-feature`
-3. Commit perubahan: `git commit -m 'Add amazing feature'`
-4. Push ke branch: `git push origin feature/amazing-feature`
-5. Buat Pull Request
-
 ---
 
 ⭐ Jangan lupa berikan star jika project ini membantu Anda!
